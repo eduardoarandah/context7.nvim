@@ -10,8 +10,6 @@ https://github.com/user-attachments/assets/4db1dc66-6bfc-4dfc-81a6-d7d00d0b2867
 
 Context7 has a free tier with a rate limit of 100 queries per day.
 
-With a free api key you get 1,000 queries per day
-
 https://context7.com/docs/api-key
 
 ### lazy.nvim
